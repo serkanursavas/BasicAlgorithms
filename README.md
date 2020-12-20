@@ -1,1 +1,1 @@
-<h1>Basic Algorithm</h1>
+<h1 align=center>Basic Algorithm</h1>
